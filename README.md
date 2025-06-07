@@ -1,4 +1,4 @@
-# BoxOS 🚀
+# BoxOS 🚀 Click. Done. Genius.
 
 ![BoxOS Logo](https://img.shields.io/badge/BoxOS-v1.0-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-C%2FASM-blue.svg) ![Architecture](https://img.shields.io/badge/Architecture-x86__64-red.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -157,7 +157,7 @@ Line 2 - Testing screen scrolling functionality
 
 ## 📚 Обучающие ресурсы
 
-Если вы хотите изучить разработку ОС:
+Если вы хотите изучить разработку ОС (отсюда брались данные для написания):
 - [OSDev Wiki](https://wiki.osdev.org/) - отличный ресурс для начинающих
 - [Intel x86-64 Manual](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
 - [NASM Documentation](https://nasm.us/docs.php)
@@ -166,9 +166,9 @@ Line 2 - Testing screen scrolling functionality
 
 Этот проект распространяется под лицензией MIT. См. файл `LICENSE` для подробностей.
 
-## 👨‍💻 Автор
+## 👨‍💻 Автор: skripsaha
 
-Создано с ❤️ и большим количеством кофе ☕
+Создано skripsaha с ❤️ и большим количеством кофе☕
 
 ---
 
