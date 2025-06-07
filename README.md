@@ -2,6 +2,9 @@
 
 ![BoxOS Logo](https://img.shields.io/badge/BoxOS-v1.0-brightgreen.svg) ![Language](https://img.shields.io/badge/Language-C%2FASM-blue.svg) ![Architecture](https://img.shields.io/badge/Architecture-x86__64-red.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+![image](https://github.com/user-attachments/assets/b15287e1-a85b-457b-bf2e-ed6b8409ef8a)
+
+
 **BoxOS** - это минималистичная 64-битная операционная система, написанная с нуля на языках ассемблера и C. Проект демонстрирует основы разработки ОС: от загрузки до управления памятью и вывода на экран.
 
 ## ✨ Особенности
