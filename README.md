@@ -90,7 +90,7 @@ boxos/
 
 ## 🎮 Использование
 
-После запуска `make clean && make && make run` или только с образом `qemu-system-x86_64 -drive format=raw,file=boxos.img -m 512M -serial stdio -no-reboot -no-shutdown` вы увидите:
+После запуска `make clean && make && make run` или только с образом `qemu-system-x86_64 -drive format=raw,file=boxos.img -m 512` вы увидите:
 
 ```
 BoxOS Stage1 Loading...
